@@ -1,0 +1,201 @@
+id,category,price,rating,title,vendor
+1,Gizmo,29.4633,4.6,Rustic Paper Wallet,"Swaniawski, Casper and Hilll"
+2,Doohickey,70.0799,0.0,Small Marble Shoes,Balistreri-Ankunding
+3,Doohickey,35.3887,4.0,Synergistic Granite Chair,"Murray, Watsica and Wunsch"
+4,Doohickey,73.9918,3.0,Enormous Aluminum Shirt,Regan Bradtke and Sons
+5,Gadget,82.7451,4.0,Enormous Marble Wallet,"Price, Schultz and Daniel"
+6,Doohickey,64.9575,3.8,Small Marble Hat,Nolan-Wolff
+7,Doohickey,98.8193,4.3,Aerodynamic Linen Coat,Little-Pagac
+8,Doohickey,65.8922,4.1,Enormous Steel Watch,Senger-Stamm
+9,Widget,58.3131,4.2,Practical Bronze Computer,Keely Stehr Group
+10,Gizmo,31.7862,4.3,Mediocre Wooden Table,"Larson, Pfeffer and Klocko"
+11,Gadget,88.3045,0.0,Ergonomic Silk Coat,"Upton, Kovacek and Halvorson"
+12,Gizmo,77.3428,4.4,Sleek Paper Toucan,Mueller-Dare
+13,Gizmo,75.0862,0.0,Synergistic Steel Chair,Mr. Tanya Stracke and Sons
+14,Widget,25.0988,4.0,Awesome Concrete Shoes,McClure-Lockman
+15,Widget,25.0988,4.0,Aerodynamic Paper Computer,Friesen-Anderson
+16,Gadget,44.0735,4.0,Incredible Bronze Pants,"Okuneva, Kutch and Monahan"
+17,Doohickey,53.2907,4.3,Enormous Wool Car,"Hilpert, Jacobs and Hauck"
+18,Gadget,54.602,4.4,Lightweight Paper Bottle,Wilkinson-Gottlieb
+19,Doohickey,42.6712,4.2,Rustic Concrete Bottle,"Gibson, Turner and Douglas"
+20,Gizmo,24.8843,4.0,Intelligent Wooden Gloves,Ora Monahan and Sons
+21,Gadget,40.3833,4.1,Lightweight Wool Bag,Heaney-Windler
+22,Gizmo,21.4245,4.2,Enormous Marble Shoes,"Mayer, Kiehn and Turcotte"
+23,Widget,77.9111,3.8,Fantastic Aluminum Bottle,"Reichert, Johnson and Roob"
+24,Doohickey,74.871,3.4,Synergistic Marble Keyboard,Claude Thompson Group
+25,Widget,45.7484,0.0,Durable Marble Watch,"Ritchie, Haley and Pacocha"
+26,Widget,45.4165,0.0,Ergonomic Aluminum Plate,Tia Goyette Group
+27,Gadget,85.0165,2.0,Awesome Aluminum Table,Alfredo Kuhlman Group
+28,Gizmo,45.4165,0.0,Rustic Marble Bottle,"Morissette, Bartoletti and Cummings"
+29,Widget,82.383,4.5,Durable Steel Toucan,Odessa Emmerich Inc
+30,Gadget,42.783,3.7,Ergonomic Paper Wallet,Miles Ryan Group
+31,Doohickey,70.4356,4.5,Rustic Rubber Clock,"Quigley, Von and Will"
+32,Gadget,71.4299,4.0,Ergonomic Silk Keyboard,Reid Pfannerstill and Sons
+33,Doohickey,31.8299,2.7,Small Plastic Computer,Spinka-Stokes
+34,Gadget,49.5359,4.1,Heavy-Duty Wooden Clock,Eugenia Kunze LLC
+35,Doohickey,47.6912,3.6,Mediocre Cotton Coat,Cassin-Collins
+36,Gizmo,87.2913,4.1,Mediocre Plastic Clock,"Wolf, Beahan and Thiel"
+37,Gadget,53.4052,3.3,Incredible Granite Toucan,"Parker, OConnell and Beahan"
+38,Gadget,44.0462,3.8,Lightweight Leather Gloves,"Bednar, Berge and Boyle"
+39,Gizmo,76.3877,4.2,Durable Rubber Computer,Carmela Douglas Inc
+40,Gizmo,66.4416,3.9,Small Copper Plate,Maegan Casper Group
+41,Widget,42.3393,4.2,Aerodynamic Paper Coat,Robyn Padberg Inc
+42,Widget,25.3361,4.0,Awesome Rubber Wallet,Schamberger-Maggio
+43,Widget,50.9017,4.0,Lightweight Marble Bag,Francis Wolff Group
+44,Widget,50.9017,4.0,Gorgeous Concrete Shoes,Carol Marvin LLC
+45,Doohickey,78.6997,2.7,Sleek Wool Wallet,"Volkman, Greenfelder and Kiehn"
+46,Gadget,78.6997,4.0,Rustic Linen Keyboard,Una Fadel Group
+47,Doohickey,56.0511,4.2,Aerodynamic Cotton Bottle,Annetta Wyman and Sons
+48,Gizmo,82.1392,3.3,Gorgeous Concrete Chair,Kiehn-Pacocha
+49,Gadget,87.6191,3.8,Incredible Silk Shoes,Schuster-Wyman
+50,Widget,35.7601,4.1,Durable Wool Toucan,"Hartmann, Mohr and Stiedemann"
+51,Gizmo,50.4337,3.7,Awesome Granite Car,Keshaun Mueller Group
+52,Widget,69.1172,4.4,Ergonomic Marble Hat,Koch-Ruecker
+53,Doohickey,29.5172,4.4,Mediocre Cotton Toucan,Jacobson-Daniel
+54,Widget,41.3957,3.6,Intelligent Bronze Knife,McClure-Murphy
+55,Gadget,63.8475,0.0,Mediocre Rubber Shoes,"Considine, Lehner and Maggio"
+56,Doohickey,24.2475,4.1,Awesome Silk Car,Hackett-Reynolds
+57,Gizmo,81.6149,3.8,Gorgeous Bronze Hat,"Kuphal, Schowalter and Bogan"
+58,Gadget,52.0972,4.3,Practical Steel Table,"Smitham, Dach and Bode"
+59,Gizmo,59.4681,3.6,Sleek Aluminum Watch,"Donnelly, Renner and Barton"
+60,Doohickey,19.8681,4.1,Rustic Paper Car,Stroman-Carroll
+61,Gizmo,15.6919,4.0,Mediocre Paper Car,Jordi Effertz LLC
+62,Widget,89.0135,4.0,Awesome Iron Hat,Von-Gulgowski
+63,Gizmo,89.0135,3.8,Enormous Granite Wallet,"Hills, Fahey and Jones"
+64,Gadget,95.6148,3.7,Incredible Aluminum Knife,Noah Anderson and Sons
+65,Widget,45.4851,3.7,Ergonomic Silk Table,Weimann-Cummings
+66,Widget,90.7742,4.4,Fantastic Silk Bottle,Goyette-Smitham
+67,Gizmo,27.4965,4.3,Aerodynamic Granite Bottle,Myriam Macejkovic Inc
+68,Gizmo,76.829,3.9,Heavy-Duty Copper Toucan,"Howe, Kiehn and Price"
+69,Doohickey,48.9251,3.5,Synergistic Leather Coat,"Wiza, Abbott and Deckow"
+70,Widget,38.3287,3.6,Small Rubber Clock,Izabella Dach I and Sons
+71,Gadget,55.2025,0.0,Sleek Granite Pants,"Kirlin, Hermann and Stokes"
+72,Widget,94.8025,3.5,Rustic Paper Bench,"Senger, Mertz and Murray"
+73,Widget,47.7525,4.1,Aerodynamic Rubber Bench,Rowan Kautzer LLC
+74,Gadget,34.0854,4.3,Awesome Plastic Watch,Herman Flatley Group
+75,Gadget,83.8752,4.5,Intelligent Paper Hat,Ledner-Satterfield
+76,Widget,42.5495,4.3,Sleek Marble Clock,"Koepp, Ondricka and Larkin"
+77,Gadget,67.3446,4.4,Mediocre Leather Computer,Fisher-Kemmer
+78,Gizmo,27.7446,0.0,Mediocre Aluminum Shirt,"Zemlak, Botsford and Corkery"
+79,Gizmo,27.7446,4.3,Sleek Aluminum Clock,"Toy, Deckow and Nitzsche"
+80,Widget,36.6088,3.7,Small Copper Clock,Cruickshank-Abernathy
+81,Gizmo,29.2887,4.2,Lightweight Linen Coat,Mason Bashirian and Sons
+82,Gadget,40.597,4.5,Heavy-Duty Steel Watch,Braeden Gislason and Sons
+83,Gadget,54.5842,3.7,Lightweight Bronze Table,Mr. Johanna Koepp and Sons
+84,Gizmo,54.5842,3.2,Incredible Plastic Chair,Americo Sipes and Sons
+85,Gizmo,36.6007,4.1,Rustic Copper Knife,"Reynolds, Gleason and Brekke"
+86,Doohickey,61.5429,3.7,Heavy-Duty Silk Chair,"Orn, Hilpert and Pfannerstill"
+87,Widget,78.1702,3.5,Gorgeous Linen Bottle,Miss Annamae Kutch Group
+88,Gizmo,70.2753,3.6,Lightweight Linen Bottle,Dorothea Balistreri Inc
+89,Widget,42.4797,3.3,Awesome Aluminum Keyboard,"Stamm, Crist and Labadie"
+90,Gizmo,82.0797,4.0,Incredible Concrete Keyboard,Rodriguez-Kuhlman
+91,Gizmo,43.3962,4.5,Rustic Rubber Knife,Connelly-Ritchie
+92,Gizmo,83.2616,4.2,Small Granite Gloves,Baumbach-Hilpert
+93,Widget,33.2124,0.0,Practical Copper Car,Medhurst-Reichert
+94,Widget,72.8124,0.0,Awesome Bronze Plate,Nolan-Heller
+95,Gizmo,33.2124,4.1,Durable Iron Knife,"Schiller, Bogisich and Lockman"
+96,Doohickey,69.881,4.0,Heavy-Duty Silk Car,Bernhard-Grady
+97,Doohickey,74.9455,4.0,Durable Copper Clock,"Halvorson, Lockman and Ruecker"
+98,Gizmo,74.9455,4.5,Mediocre Silk Bottle,Pacocha-Volkman
+99,Gadget,45.2232,3.3,Enormous Plastic Coat,Kuhlman-Kuphal
+100,Gizmo,45.2232,4.0,Lightweight Steel Knife,"Legros, Lynch and Howell"
+101,Gadget,93.2166,3.6,Durable Cotton Bench,Gutmann-Breitenberg
+102,Gadget,31.3614,4.0,Lightweight Granite Hat,Dominic Mann Group
+103,Widget,31.3614,0.0,Rustic Silk Pants,Trantow-Bartell
+104,Widget,70.9614,0.0,Sleek Leather Toucan,Senger-Doyle
+105,Gadget,35.149,4.0,Fantastic Wool Shirt,Jerrod McLaughlin LLC
+106,Doohickey,35.149,4.3,Fantastic Steel Knife,Friesen-Langworth
+107,Gadget,33.3966,4.0,Lightweight Wool Plate,Dora Fay and Sons
+108,Gadget,33.3966,4.0,Practical Silk Computer,Aufderhar-Boehm
+109,Widget,79.3666,0.0,Intelligent Iron Shirt,Price Kuhic Inc
+110,Widget,37.0178,0.0,Enormous Marble Gloves,Stanton-Fritsch
+111,Gadget,37.0178,3.8,Ergonomic Rubber Bench,"Hane, Hamill and Jerde"
+112,Doohickey,27.5529,4.1,Small Wool Wallet,Ledner-Watsica
+113,Gadget,73.6515,3.3,Sleek Leather Table,"Ruecker, Carter and Ortiz"
+114,Doohickey,51.9413,4.0,Practical Plastic Keyboard,"Wisoky, Pagac and Heaney"
+115,Gadget,51.9413,4.2,Rustic Silk Knife,Mrs. Eugenia Koelpin and Sons
+116,Gizmo,76.2832,4.2,Aerodynamic Concrete Bench,Denesik-Ortiz
+117,Gizmo,36.6832,3.5,Small Concrete Knife,Jefferey Volkman LLC
+118,Gadget,38.4184,3.1,Synergistic Rubber Shoes,Herta Skiles and Sons
+119,Gadget,28.9588,3.6,Gorgeous Linen Keyboard,Alfreda Konopelski II Group
+120,Widget,55.668,4.0,Heavy-Duty Copper Watch,Jerrell Gulgowski Inc
+121,Doohickey,26.9635,5.0,Ergonomic Wool Bag,"Wolff, Ebert and Hansen"
+122,Gizmo,66.5635,3.6,Gorgeous Marble Plate,Fisher-Purdy
+123,Gizmo,73.9543,2.0,Mediocre Wooden Bench,Flatley-Kunde
+124,Gizmo,73.9543,4.0,Durable Aluminum Bag,Zemlak-Wiegand
+125,Widget,53.598,3.4,Aerodynamic Granite Bench,Lon Wiegand DVM and Sons
+126,Widget,83.496,4.5,Practical Wool Hat,Emmerich-Nienow
+127,Widget,89.6534,4.0,Practical Bronze Watch,Schamberger-Wehner
+128,Gizmo,50.0534,4.3,Gorgeous Aluminum Plate,Cale Thompson V and Sons
+129,Gizmo,98.7782,3.6,Small Marble Knife,"Turner, Kiehn and Schmitt"
+130,Gizmo,50.0172,4.4,Awesome Cotton Shoes,"Kuphal, Friesen and Rowe"
+131,Widget,75.4115,4.0,Practical Aluminum Coat,Batz-Schroeder
+132,Widget,85.2546,3.7,Sleek Steel Table,Marge Effertz Jr. Inc
+133,Doohickey,45.6546,4.3,Sleek Wool Watch,"Hauck, Ernser and Barton"
+134,Doohickey,28.3282,3.8,Practical Paper Bag,"Considine, Bogisich and Bauch"
+135,Gizmo,30.536,4.0,Enormous Granite Bottle,Lorenza Mayer Inc
+136,Widget,70.136,4.8,Mediocre Marble Lamp,"Crona, Block and Homenick"
+137,Gizmo,45.1817,3.5,Ergonomic Granite Bottle,"Morissette, Dare and Schimmel"
+138,Doohickey,75.9672,4.0,Incredible Plastic Watch,Kiel Kassulke Group
+139,Doohickey,51.1851,3.2,Lightweight Steel Watch,"Wuckert, Murazik and Ernser"
+140,Gadget,44.5354,4.1,Sleek Copper Watch,Daugherty-Dach
+141,Doohickey,84.1354,4.0,Enormous Cotton Pants,Nikolaus-Hudson
+142,Doohickey,46.899,4.3,Ergonomic Marble Computer,"Kuphal, Brown and Koss"
+143,Gizmo,40.7989,0.0,Rustic Iron Bench,"McGlynn, Fay and Kertzmann"
+144,Widget,40.7989,0.0,Aerodynamic Bronze Hat,"Schumm, Brown and Wehner"
+145,Gizmo,40.7989,4.4,Awesome Wool Bench,Stark-Bayer
+146,Widget,84.0315,4.3,Lightweight Wool Computer,Theodora Terry and Sons
+147,Doohickey,44.4315,4.6,Mediocre Wool Toucan,"Bradtke, Wilkinson and Reilly"
+148,Gadget,92.6545,4.1,Sleek Plastic Shoes,Gail Bergstrom Inc
+149,Widget,46.1028,4.1,Incredible Aluminum Knife,"Padberg, Senger and Williamson"
+150,Gadget,85.7028,3.9,Synergistic Wool Coat,Morar-Schamberger
+151,Gizmo,61.0753,4.0,Lightweight Leather Bench,"Marquardt, Crooks and Abshire"
+152,Widget,32.5971,3.6,Enormous Aluminum Clock,Thompson-Wolf
+153,Gadget,44.5326,4.1,Aerodynamic Leather Computer,"Wilkinson, Donnelly and Gulgowski"
+154,Widget,54.5835,4.3,Incredible Bronze Wallet,"Hermiston, OHara and Wunsch"
+155,Gadget,29.1838,4.4,Fantastic Rubber Knife,Demarcus Brakus Inc
+156,Gadget,20.4105,4.5,Heavy-Duty Copper Gloves,"Schinner, Schmitt and Crona"
+157,Widget,93.2628,3.0,Intelligent Granite Hat,Dooley-Cummings
+158,Gizmo,93.2628,4.1,Aerodynamic Leather Toucan,Israel Spinka and Sons
+159,Widget,23.6868,4.3,Aerodynamic Cotton Lamp,"Mueller, Mayert and Johnston"
+160,Gadget,31.7275,5.0,Lightweight Linen Hat,Oran DAmore Inc
+161,Doohickey,31.7275,4.0,Heavy-Duty Rubber Gloves,"West, Prohaska and Wunsch"
+162,Gadget,22.3786,3.3,Gorgeous Copper Knife,Connelly-Mitchell
+163,Widget,22.3786,0.0,Ergonomic Leather Pants,Brittany Mueller Inc
+164,Doohickey,61.9786,4.4,Sleek Bronze Lamp,Bosco-Breitenberg
+165,Gizmo,25.5363,2.5,Aerodynamic Copper Knife,"McDermott, Kiehn and Becker"
+166,Doohickey,25.5363,4.0,Rustic Copper Hat,Kuhn-OReilly
+167,Doohickey,65.1363,3.0,Gorgeous Paper Bag,Prohaska-Quigley
+168,Gadget,79.2878,0.0,Intelligent Paper Car,Roscoe Oberbrunner Group
+169,Doohickey,39.6878,4.5,Small Cotton Chair,Kuhlman-McKenzie
+170,Widget,70.0511,4.0,Durable Leather Wallet,Ruecker-Jakubowski
+171,Doohickey,70.0511,4.0,Ergonomic Iron Watch,Blake Greenfelder Group
+172,Gizmo,81.5768,3.8,Practical Aluminum Table,Heathcote-Kirlin
+173,Gadget,81.5768,4.1,Gorgeous Wooden Car,"Upton, Schoen and Streich"
+174,Gadget,74.4095,4.4,Rustic Iron Keyboard,Barrows-Johns
+175,Doohickey,78.2165,0.0,Fantastic Leather Watch,Lakin-Stroman
+176,Widget,38.6165,3.6,Enormous Leather Wallet,Mr. Colton Mayer Group
+177,Gadget,85.8795,4.0,Heavy-Duty Cotton Bottle,Ursula Collins LLC
+178,Widget,78.2198,4.6,Ergonomic Linen Toucan,Halle Kulas I LLC
+179,Doohickey,45.5494,3.5,Incredible Linen Knife,Casper-Schimmel
+180,Gadget,45.5494,4.3,Lightweight Copper Wallet,Maxime Haley and Sons
+181,Widget,95.9263,4.4,Awesome Steel Toucan,"Berge, Mraz and Sawayn"
+182,Gadget,56.3263,4.0,Practical Silk Bottle,Devonte Gleichner Inc
+183,Gizmo,37.7983,3.7,Mediocre Aluminum Lamp,"Powlowski, Keebler and Quigley"
+184,Widget,77.3983,3.6,Practical Granite Plate,Gaylord-Lesch
+185,Gadget,26.3847,0.0,Sleek Marble Table,Cremin-Williamson
+186,Gizmo,65.9847,4.2,Ergonomic Concrete Lamp,Theodore Hansen Inc
+187,Gizmo,65.9847,4.2,Fantastic Copper Hat,Janick Harvey LLC
+188,Doohickey,22.5849,3.5,Synergistic Copper Computer,"Jones, Hayes and Kshlerin"
+189,Widget,62.1849,4.3,Gorgeous Marble Computer,"Marvin, Turcotte and Wisozk"
+190,Gadget,85.7228,3.2,Ergonomic Cotton Bag,Delphia Bauch Inc
+191,Gadget,85.7228,0.0,Heavy-Duty Linen Gloves,"Herman, Gleason and Renner"
+192,Widget,46.1228,3.3,Durable Cotton Shirt,"Grady, Greenfelder and Welch"
+193,Gadget,33.5872,0.0,Ergonomic Plastic Bench,Hodkiewicz-Brekke
+194,Doohickey,33.5872,3.5,Heavy-Duty Rubber Bottle,Rosanna Murazik Inc
+195,Gadget,73.1872,5.0,Incredible Concrete Watch,Ford Runolfsson Group
+196,Widget,46.7641,0.0,Heavy-Duty Linen Toucan,Balistreri-Muller
+197,Gizmo,46.7641,4.6,Aerodynamic Concrete Lamp,Erika Volkman Group
+198,Gizmo,46.7641,4.1,Enormous Copper Shirt,"Considine, Schamberger and Schiller"
+199,Widget,76.9533,3.6,Mediocre Leather Coat,"Gulgowski, Grimes and Mayer"
+200,Gadget,48.8026,4.0,Intelligent Steel Car,"Pouros, Nitzsche and Mayer"
